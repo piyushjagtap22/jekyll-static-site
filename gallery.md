@@ -5,7 +5,7 @@ permalink: "/gallery/"
 textcolor: black
 projectcolor: pink
 location: bhopal
-primaryimage: zone.png
+primaryimage: ZONE.png
 projectdate: 2017
 
 ---
