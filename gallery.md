@@ -10,7 +10,7 @@ projectdate: 2017
 
 ---
 gallery
-{page.primaryimage}
+<img src="{{site.baseurl}}/images/{{page.primaryimage}}"/>
 yaha par photo aayegi
 
 <div class="container">

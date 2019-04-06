@@ -1,10 +1,10 @@
 ---
-title: Gallery
+title: Media
 layout: page
 
 permalink: /media/
 ---
-
+media
 yaha par photo aayegi
 
 <div class="container">
