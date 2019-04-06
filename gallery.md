@@ -5,11 +5,12 @@ permalink: /gallery/
 textcolor: black
 projectcolor: pink  
 location: bhopal
-date: 2017
+primaryimage: photo.jpg
+projectdate: 2017
 
 ---
 gallery
-
+{page.primaryimage}
 yaha par photo aayegi
 
 <div class="container">
@@ -18,4 +19,4 @@ yaha par photo aayegi
          <div class="col"><img src="../images/free-business-banner-vector.webp"></div>
     </div>
 </div>
-    
+     
