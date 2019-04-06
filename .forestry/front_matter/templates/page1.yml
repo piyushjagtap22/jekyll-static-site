@@ -1,0 +1,28 @@
+---
+label: page1
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: textcolor
+  label: textcolor
+- type: text
+  name: projectcolor
+  label: projectcolor
+- type: text
+  name: location
+  label: location
+- type: file
+  name: primaryimage
+  label: primaryimage
+- type: number
+  name: projectdate
+  label: projectdate
