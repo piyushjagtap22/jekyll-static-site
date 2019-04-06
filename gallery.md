@@ -1,11 +1,11 @@
 ---
 title: Gallery
 layout: page
-permalink: /gallery/
+permalink: "/gallery/"
 textcolor: black
-projectcolor: pink  
+projectcolor: pink
 location: bhopal
-primaryimage: photo.jpg
+primaryimage: zone.png
 projectdate: 2017
 
 ---
@@ -19,4 +19,3 @@ yaha par photo aayegi
          <div class="col"><img src="../images/free-business-banner-vector.webp"></div>
     </div>
 </div>
-     
