@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Gallery here
 layout: page
 permalink: "/gallery/"
 textcolor: black
@@ -9,13 +9,13 @@ primaryimage: ZONE.png
 projectdate: 2017
 
 ---
-gallery
+![](/images/hara hara.PNG)gallery
 <img src="{{site.baseurl}}/images/{{page.primaryimage}}"/>
 yaha par photo aayegi
 
 <div class="container">
-    <div class="row">
-        <div class="col"><img src="../images/hara%20hara.PNG"></div>
-         <div class="col"><img src="../images/free-business-banner-vector.webp"></div>
-    </div>
+<div class="row">
+<div class="col"><img src="../images/hara%20hara.PNG"></div>
+<div class="col"><img src="../images/free-business-banner-vector.webp"></div>
+</div>
 </div>
