@@ -5,18 +5,29 @@ permalink: /gallery/
 textcolor: black
 projectcolor: pink  
 location: bhopal
-primaryimage: photo.jpg
+primaryimage: photo.png
 projectdate: 2017
-
+gallery: 
+ - image1.jpg
+ - image2.jpg
+ - image3.jpg
+ - image4.jpg
+ - image5.jpg
+ 
 ---
 gallery
-<img src="{{site.baseurl}}/images/{{page.primaryimage}}"/>
-yaha par photo aayegi
 
-<div class="container">
-    <div class="row">
-        <div class="col"><img src="../images/hara%20hara.PNG"></div>
-         <div class="col"><img src="../images/free-business-banner-vector.webp"></div>
-    </div>
+<div class="projectimages">
+<img src="../images/hara%20hara.png" width="100%" height="auto" />
+<div class="imagegrid">
+<ol>
+    {%- for item in page.gallery -%}
+<li>
+        <img src="../images/{{item}}" alt="image"/>
+</li>
+    {%- endfor -%}
+</ol>
 </div>
+</div>
+
      
